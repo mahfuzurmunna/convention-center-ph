@@ -1,0 +1,95 @@
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+.logo {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 33px;
+  color: #3e3e3e;
+}
+
+.nav-name {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+
+  color: #3e3e3e;
+}
+
+.banner-title {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 48px;
+  color: #ffffff;
+}
+.btn {
+  width: 168px;
+  height: 44px;
+}
+
+.moment-section {
+  margin: 100px 0;
+}
+.moment-title {
+  font-weight: 700;
+  font-size: 38px;
+  line-height: 60px;
+  color: #0a0826;
+}
+.moment-text {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 28px;
+  color: #6c6c6c;
+}
+.moment-btn {
+  width: 230px;
+  height: 44px;
+}
+
+.packages {
+  font-size: 28px;
+  line-height: 33px;
+  color: #231d4f;
+}
+
+.package-para {
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 22px;
+  color: #848199;
+}
+.package-section ul li {
+  list-style: none;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 22px;
+  margin-bottom: 10px;
+  color: #848199;
+}
+.package-btn {
+  width: 207px;
+  height: 45px;
+}
+.package-btn:hover {
+  background-color: white;
+  color: #0d6efd;
+}
+
+.package-card {
+  transition: 0.4s ease;
+}
+
+.package-card:hover {
+  background-color: #0d6efd;
+  color: white;
+  transform: scale(1.2);
+  border-radius: 20px;
+  background: #3f87f5;
+  box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
+}
